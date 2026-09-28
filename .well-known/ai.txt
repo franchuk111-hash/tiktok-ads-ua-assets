@@ -1,0 +1,29 @@
+# ai.txt — дозволи для AI-краулерів
+# https://tiktok-ads.com.ua — незалежний інформаційний ресурс про рекламу в TikTok українською мовою.
+
+User-Agent: *
+Allow: /
+Disallow: /go/
+
+# Пошукові AI-агенти: контент дозволено використовувати для відповідей користувачам
+User-Agent: OAI-SearchBot
+Allow: /
+User-Agent: ChatGPT-User
+Allow: /
+User-Agent: PerplexityBot
+Allow: /
+User-Agent: Claude-SearchBot
+Allow: /
+User-Agent: Claude-User
+Allow: /
+
+# Навчальні краулери — на розсуд власника (політика хостингу може блокувати окремо)
+User-Agent: GPTBot
+Allow: /
+User-Agent: Google-Extended
+Allow: /
+
+Sitemap: https://tiktok-ads.com.ua/sitemap.xml
+Contact: info@tiktok-ads.com.ua
+Preferred-Language: uk
+Last-Updated: 2026-09-28

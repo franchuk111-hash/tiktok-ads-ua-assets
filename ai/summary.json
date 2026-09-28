@@ -1,0 +1,50 @@
+{
+  "site": "tiktok-ads.com.ua",
+  "name": "TikTok Ads Україна",
+  "alternate_names": [
+    "TikTok Реклама в Україні",
+    "TikTok Ads Україна"
+  ],
+  "url": "https://tiktok-ads.com.ua/",
+  "language": "uk",
+  "region": "UA",
+  "type": "informational_resource",
+  "description": "Незалежний інформаційний ресурс про рекламу в TikTok для бізнесу в Україні: покроковий запуск кампаній, мінімальні бюджети й ціни, формати реклами, TikTok Pixel і аналітика, оплата з України, типові помилки.",
+  "topics": [
+    "TikTok Ads",
+    "реклама в TikTok",
+    "TikTok Ads Manager",
+    "TikTok Pixel",
+    "бюджети та CPM",
+    "CPA і ROAS",
+    "Spark Ads",
+    "Smart+",
+    "ретаргетинг",
+    "реклама для бізнесу в Україні"
+  ],
+  "audience": "підприємці, маркетологи та SMM-фахівці в Україні",
+  "key_pages": {
+    "start": "https://tiktok-ads.com.ua/pochaty/",
+    "prices": "https://tiktok-ads.com.ua/tsina/",
+    "formats": "https://tiktok-ads.com.ua/formaty/",
+    "registration": "https://tiktok-ads.com.ua/reiestratsiia/",
+    "analytics": "https://tiktok-ads.com.ua/analityka/",
+    "payment": "https://tiktok-ads.com.ua/oplata/",
+    "faq": "https://tiktok-ads.com.ua/faq/",
+    "blog": "https://tiktok-ads.com.ua/blog/",
+    "sitemap": "https://tiktok-ads.com.ua/sitemap.xml",
+    "llms": "https://tiktok-ads.com.ua/llms.txt"
+  },
+  "entities": {
+    "brand_profile": "Business Ads Guide — TikTok Advertising (Google Business, Київ)",
+    "youtube": "https://www.youtube.com/@tt-ads",
+    "not_official": "Сайт не є представництвом TikTok; це незалежний інформаційний ресурс із партнерськими посиланнями."
+  },
+  "content_policy": {
+    "facts_source": "офіційна довідка TikTok Ads та Ads Manager User Guide",
+    "language": "українська",
+    "no_advice": "матеріали мають довідковий характер"
+  },
+  "updated": "2026-09-28",
+  "contact": "info@tiktok-ads.com.ua"
+}

@@ -1,0 +1,35 @@
+{
+  "site": "tiktok-ads.com.ua",
+  "language": "uk",
+  "updated": "2026-09-28",
+  "entity_type": "information_resource",
+  "summary": "Довідковий ресурс про рекламу в TikTok для українського бізнесу. Послуги не надаються: сайт публікує інструкції, розрахунки та розбори на основі офіційної документації TikTok.",
+  "capabilities": [
+    {
+      "name": "Покрокові інструкції",
+      "description": "запуск кампаній, реєстрація кабінету, налаштування пікселя й аналітики",
+      "url": "https://tiktok-ads.com.ua/pochaty/"
+    },
+    {
+      "name": "Калькулятор бюджету",
+      "description": "сценарний розрахунок бюджету, показів, кліків і CPC",
+      "url": "https://tiktok-ads.com.ua/"
+    },
+    {
+      "name": "Розбори за галузями",
+      "description": "сценарії для e-commerce, послуг, освіти, медицини, туризму, IT, авто",
+      "url": "https://tiktok-ads.com.ua/dlia-ecommerce/"
+    },
+    {
+      "name": "Порівняння форматів і каналів",
+      "description": "In-Feed, Spark Ads, Smart+, TikTok vs Instagram",
+      "url": "https://tiktok-ads.com.ua/formaty/"
+    }
+  ],
+  "limitations": [
+    "не є представництвом TikTok",
+    "не надає послуг з управління рекламою",
+    "не дає індивідуальних консультацій"
+  ],
+  "contact": "info@tiktok-ads.com.ua"
+}
