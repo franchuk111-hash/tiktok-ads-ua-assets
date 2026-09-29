@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adstart — TikTok Ads guide</title>
+    <link>https://tiktok-ads.online/</link>
+    <atom:link href="https://tiktok-ads.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Independent guide to getting started with TikTok Ads: new advertiser ad credits, registration steps and first-campaign setup in Ads Manager.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Get started with TikTok Ads: account, ad credits and first campaign</title>
+      <link>https://tiktok-ads.online/</link>
+      <guid isPermaLink="true">https://tiktok-ads.online/</guid>
+      <pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
+      <description><![CDATA[New advertiser ad credit tiers up to $6,000, the three steps of registration on TikTok and what to decide before your first spend. Includes a FAQ on minimum budgets, creative formats and measurement.]]></description>
+    </item>
+  </channel>
+</rss>

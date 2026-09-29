@@ -1,0 +1,47 @@
+{
+  "site": "tiktok-ads.online",
+  "language": "en",
+  "updated": "2026-09-29",
+  "faq": [
+    {
+      "question": "Where do I register for a TikTok Ads account?",
+      "answer": "Registration happens on TikTok's website. The buttons on tiktok-ads.online continue to TikTok's own registration flow, and no account is created on this site.",
+      "url": "https://tiktok-ads.online/#faq"
+    },
+    {
+      "question": "What information do I need to create a TikTok Ads account?",
+      "answer": "TikTok guides the advertiser through the required information during registration. Requirements vary by country and business type, so the checklist is shown inside TikTok's flow, not on this page.",
+      "url": "https://tiktok-ads.online/#faq"
+    },
+    {
+      "question": "How much does it cost to run TikTok ads?",
+      "answer": "Cost depends on the settings chosen and the options available to the account. Budget and billing details are shown in TikTok Ads Manager before a campaign launches.",
+      "url": "https://tiktok-ads.online/#faq"
+    },
+    {
+      "question": "Is there a minimum budget for TikTok ads?",
+      "answer": "TikTok sets minimum daily budgets and they differ by objective, country and billing currency. The current figure appears inside Ads Manager when the campaign is set up.",
+      "url": "https://tiktok-ads.online/#faq"
+    },
+    {
+      "question": "What kind of ad creative does TikTok Ads use?",
+      "answer": "TikTok ads are vertical, full-screen short video that feels native to the feed. Ads Manager lists the supported formats, placements and creative specifications for each objective.",
+      "url": "https://tiktok-ads.online/#faq"
+    },
+    {
+      "question": "How do I measure results from a TikTok Ads campaign?",
+      "answer": "Ads Manager reports delivery and engagement metrics such as impressions, clicks, reach and cost per thousand views. Conversions, purchases or app installs require a tracking setup such as the TikTok Pixel or an app SDK.",
+      "url": "https://tiktok-ads.online/#faq"
+    },
+    {
+      "question": "Are the new advertiser ad credits guaranteed?",
+      "answer": "No. The tiers shown on the page are a guide to the incentive details supplied for it; the offer displayed during TikTok registration and its terms control. Eligibility, qualifying spend windows, availability and reward timing vary by advertiser and region.",
+      "url": "https://tiktok-ads.online/#offer"
+    },
+    {
+      "question": "Is tiktok-ads.online an official TikTok website?",
+      "answer": "No. It is an independent informational page. TikTok Ads accounts, approval, features and availability are managed by TikTok and may vary by country.",
+      "url": "https://tiktok-ads.online/#faq"
+    }
+  ]
+}

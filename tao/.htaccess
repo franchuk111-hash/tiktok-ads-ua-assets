@@ -1,0 +1,27 @@
+# Adstart — tiktok-ads.online
+# SSL терминирует nginx: НИКОГДА не проверять %{HTTPS} в правилах (иначе бесконечный редирект).
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # www -> apex (единый канонический хост)
+  RewriteCond %{HTTP_HOST} ^www\.tiktok-ads\.online$ [NC]
+  RewriteRule ^(.*)$ https://tiktok-ads.online/$1 [R=301,L]
+</IfModule>
+
+# Сжатие текстовых ресурсов
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/xml application/json image/svg+xml
+</IfModule>
+
+# Кеш статики
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 7 days"
+  ExpiresByType image/png "access plus 30 days"
+  ExpiresByType image/svg+xml "access plus 30 days"
+  ExpiresByType application/xml "access plus 1 hours"
+  ExpiresByType text/plain "access plus 1 hours"
+</IfModule>

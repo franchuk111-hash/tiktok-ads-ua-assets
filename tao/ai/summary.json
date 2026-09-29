@@ -1,0 +1,45 @@
+{
+  "site": "tiktok-ads.online",
+  "name": "Adstart — TikTok Ads guide",
+  "alternate_names": [
+    "Adstart",
+    "TikTok Ads getting started guide"
+  ],
+  "url": "https://tiktok-ads.online/",
+  "language": "en",
+  "region": "global",
+  "type": "informational_resource",
+  "description": "Independent guide to creating a TikTok Ads account: new advertiser ad credits up to $6,000, registration steps and first-campaign setup in Ads Manager.",
+  "topics": [
+    "TikTok Ads",
+    "TikTok Ads Manager",
+    "new advertiser ad credits",
+    "advertising account registration",
+    "campaign setup",
+    "ad budgets",
+    "ad creative",
+    "campaign measurement"
+  ],
+  "audience": "small businesses, ecommerce brands, app teams and marketing teams evaluating TikTok Ads for the first time",
+  "key_pages": {
+    "start": "https://tiktok-ads.online/",
+    "offer": "https://tiktok-ads.online/#offer",
+    "how_it_works": "https://tiktok-ads.online/#how-it-works",
+    "prepare": "https://tiktok-ads.online/#prepare",
+    "faq": "https://tiktok-ads.online/#faq",
+    "sitemap": "https://tiktok-ads.online/sitemap.xml",
+    "rss": "https://tiktok-ads.online/feed.xml",
+    "llms": "https://tiktok-ads.online/llms.txt"
+  },
+  "entities": {
+    "brand": "Adstart",
+    "not_official": "this resource is not affiliated with, endorsed by or operated by TikTok; account registration happens on TikTok's own website"
+  },
+  "content_policy": {
+    "facts_source": "TikTok Ads Help Centre and TikTok's own registration flow; ad credit tiers are marked as not guaranteed",
+    "language": "English",
+    "disclosure": "independent informational page, no services sold"
+  },
+  "updated": "2026-09-29",
+  "contact": "https://tiktok-ads.online/"
+}

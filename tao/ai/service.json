@@ -1,0 +1,32 @@
+{
+  "site": "tiktok-ads.online",
+  "language": "en",
+  "updated": "2026-09-29",
+  "entity_type": "information_resource",
+  "summary": "No services are sold and no advertising accounts are opened here: the site publishes an independent walkthrough of getting started with TikTok Ads, the new advertiser ad credit tiers and campaign setup in Ads Manager.",
+  "capabilities": [
+    {
+      "name": "Credit tier reference",
+      "description": "Shows the new advertiser spend tiers and the ad credit each tier is associated with, with an explicit not-guaranteed disclaimer.",
+      "url": "https://tiktok-ads.online/#offer"
+    },
+    {
+      "name": "Registration walkthrough",
+      "description": "Three steps from creating the account on TikTok to exploring campaign setup, plus what to decide before spending.",
+      "url": "https://tiktok-ads.online/#how-it-works"
+    },
+    {
+      "name": "FAQ",
+      "description": "Eight questions on registration, required information, cost, minimum budgets, creative format, measurement, credit eligibility and affiliation.",
+      "url": "https://tiktok-ads.online/#faq"
+    }
+  ],
+  "limitations": [
+    "independent resource, not affiliated with TikTok",
+    "no services sold",
+    "no accounts created or managed here",
+    "does not provide individual advertising advice",
+    "credit tiers are not guaranteed"
+  ],
+  "contact": "https://tiktok-ads.online/"
+}

@@ -1,0 +1,53 @@
+# Adstart — TikTok Ads guide
+
+> An independent informational page about getting started with TikTok Ads: creating an advertiser account,
+> the new advertiser ad credit tiers, and exploring campaign setup in TikTok Ads Manager.
+> This site is not affiliated with, endorsed by or operated by TikTok.
+
+## Key facts
+
+- Site: https://tiktok-ads.online/
+- Language: English (en)
+- Type: independent informational resource (no services sold, no accounts opened here)
+- Registration for a TikTok Ads account happens on TikTok's own website
+- New advertiser offer shown on the page: up to $6,000 in ad credits at a $10,000 qualifying spend tier (not guaranteed)
+- Last updated: 2026-09-29
+
+## Pages
+
+- [https://tiktok-ads.online/](https://tiktok-ads.online/): full guide — what the new advertiser credit tiers are, how many steps registration takes,
+  which Ads Manager tools exist (objectives, audiences, budget, reporting), what to decide before registering,
+  and a FAQ with eight questions.
+
+## Sections (anchors on the home page)
+
+- [New advertiser offer](https://tiktok-ads.online/#offer): credit tiers — $200 spend / $200 credit up to $10,000 spend / $6,000 credit
+- [How it works](https://tiktok-ads.online/#how-it-works): three steps — create the account on TikTok, add business details, explore campaign setup
+- [Before you start](https://tiktok-ads.online/#prepare): the three decisions worth making before spending — account ownership, reading credit terms, picking the metric that counts
+- [FAQ](https://tiktok-ads.online/#faq): registration location, required information, campaign cost, minimum budget, creative format, measurement, credit eligibility, affiliation
+
+## FAQ (short answers)
+
+- Where do I register? On TikTok's website — the buttons on the page continue to TikTok's registration flow.
+- What information is needed? TikTok guides the advertiser through it; requirements vary by country and business type.
+- How much do campaigns cost? Cost depends on the settings chosen and the options available to the account; check current budget and billing details in TikTok Ads Manager.
+- Is there a minimum budget? TikTok sets minimum daily budgets by objective, country and currency — the figure is shown in Ads Manager.
+- What creative is used? Vertical full-screen short video that feels native to the feed; Ads Manager lists supported formats and specs.
+- How are results measured? Ads Manager reports delivery and engagement; conversions need a tracking setup such as the TikTok Pixel or an app SDK.
+- Are credits guaranteed? No. TikTok's offer shown during registration and its terms control.
+- Is this TikTok's site? No — independent informational page.
+
+## Machine-readable files
+
+- [sitemap.xml](https://tiktok-ads.online/sitemap.xml)
+- [feed.xml](https://tiktok-ads.online/feed.xml)
+- [ai/summary.json](https://tiktok-ads.online/ai/summary.json)
+- [ai/faq.json](https://tiktok-ads.online/ai/faq.json)
+- [ai/service.json](https://tiktok-ads.online/ai/service.json)
+- [ai.txt](https://tiktok-ads.online/.well-known/ai.txt)
+
+## Contact
+
+- Website: https://tiktok-ads.online/
+- Corrections and questions about the content: use the continue-to-TikTok buttons for account matters;
+  this publication is informational only and does not operate TikTok Ads accounts.

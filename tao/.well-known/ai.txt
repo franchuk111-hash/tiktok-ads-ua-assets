@@ -1,0 +1,25 @@
+# ai.txt — Adstart, TikTok Ads guide
+# https://tiktok-ads.online/ — independent informational page about getting started with TikTok Ads.
+
+User-Agent: *
+Allow: /
+
+# Search / answer engines: content may be used to answer user questions
+User-Agent: OAI-SearchBot
+Allow: /
+User-Agent: ChatGPT-User
+Allow: /
+User-Agent: PerplexityBot
+Allow: /
+User-Agent: Claude-SearchBot
+Allow: /
+User-Agent: Claude-User
+Allow: /
+User-Agent: BingBot
+Allow: /
+User-Agent: Googlebot
+Allow: /
+
+Sitemap: https://tiktok-ads.online/sitemap.xml
+Preferred-Language: en
+Last-Updated: 2026-09-29
