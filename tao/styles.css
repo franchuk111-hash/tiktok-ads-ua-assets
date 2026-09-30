@@ -265,3 +265,14 @@ h1 .headline-accent { color: var(--cyan); text-shadow: 0 0 35px rgba(32,217,231,
 }
 .language-menu summary span { margin-left: 0; }
 .language-options { margin-top: 8px; border-radius: 10px; overflow: hidden; }
+
+.footer-disclaimer {
+  margin: 20px 0 0;
+  padding-top: 16px;
+  border-top: 1px solid rgba(255, 255, 255, .08);
+  max-width: 920px;
+  font-size: 11px;
+  line-height: 1.65;
+  color: #767e8c;
+}
+@media (max-width: 720px) { .footer-disclaimer { font-size: 10.5px; margin-top: 16px; } }
