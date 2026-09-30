@@ -28,15 +28,17 @@
 - #offer: credit tiers for new advertisers
 - #how-it-works: three steps — create the account on TikTok, add business details, explore campaign setup
 - #tools / #benefits: what the tools in Ads Manager are for
-- #faq: registration location, required information, cost, credits, affiliation
+- #faq: registration location, required information, cost, starting with a small budget, what happens after registration, credits, affiliation
 
 ## FAQ (English, short answers)
 
 - Where do I register for a TikTok Ads account? Use the button on this page to continue to TikTok’s registration flow. Account registration takes place on TikTok’s website.
 - What information will I need? TikTok will guide you through the information needed for your account. Requirements may vary depending on your country and business type.
-- How much does it cost to run ads? Campaign costs depend on the settings you choose and the options available to your account. Review current budget and billing details in TikTok Ads Manager before launching a campaign.
+- How much does it cost to run ads? Cost depends on the settings you choose and what’s available to your account. Start with a budget you’re comfortable with, and check the billing details before you launch.
 - Are the new advertiser ad credits guaranteed? No. The spend tiers shown here are a guide to the incentive details supplied for this page. TikTok’s offer shown during registration and its terms control. Eligibility, qualifying spend windows, availability, and reward timing may vary by advertiser and region.
 - Is this an official TikTok website? No. This is an independent informational page. TikTok Ads accounts, approval, features, and availability are managed by TikTok and may vary by country.
+- Can I start with a small budget? Yes. You choose the objective and the budget, and the ad credit offer is tied to qualifying spend tiers. Check the terms shown during registration.
+- What happens after I register? Add your business details, choose an objective and audience, set a budget, and review the campaign before you launch.
 
 ## Machine-readable files
 
