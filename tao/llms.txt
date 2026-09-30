@@ -7,35 +7,36 @@
 ## Key facts
 
 - Site: https://tiktok-ads.online/
-- Language: English (en)
+- Languages: English (en), Español México (es-MX), Bahasa Indonesia (id), Português Brasil (pt-BR), Русский (ru)
 - Type: independent informational resource (no services sold, no accounts opened here)
 - Registration for a TikTok Ads account happens on TikTok's own website
-- New advertiser offer shown on the page: up to $6,000 in ad credits at a $10,000 qualifying spend tier (not guaranteed)
-- Last updated: 2026-09-29
+- New advertiser offer shown on the page: up to $6,000 in ad credits (not guaranteed)
+- Last updated: 2026-09-30
 
 ## Pages
 
-- [https://tiktok-ads.online/](https://tiktok-ads.online/): full guide — what the new advertiser credit tiers are, how many steps registration takes,
+- [https://tiktok-ads.online/](https://tiktok-ads.online/): full guide in English — what the new advertiser credit tiers are, how many steps registration takes,
   which Ads Manager tools exist (objectives, audiences, budget, reporting), what to decide before registering,
-  and a FAQ with eight questions.
+  and a FAQ.
+- [https://tiktok-ads.online/es-mx/](https://tiktok-ads.online/es-mx/): versión en español (México)
+- [https://tiktok-ads.online/id/](https://tiktok-ads.online/id/): versi bahasa Indonesia
+- [https://tiktok-ads.online/pt-br/](https://tiktok-ads.online/pt-br/): versão em português (Brasil)
+- [https://tiktok-ads.online/ru/](https://tiktok-ads.online/ru/): версия на русском
 
-## Sections (anchors on the home page)
+## Sections (anchors on each page)
 
-- [New advertiser offer](https://tiktok-ads.online/#offer): credit tiers — $200 spend / $200 credit up to $10,000 spend / $6,000 credit
-- [How it works](https://tiktok-ads.online/#how-it-works): three steps — create the account on TikTok, add business details, explore campaign setup
-- [Before you start](https://tiktok-ads.online/#prepare): the three decisions worth making before spending — account ownership, reading credit terms, picking the metric that counts
-- [FAQ](https://tiktok-ads.online/#faq): registration location, required information, campaign cost, minimum budget, creative format, measurement, credit eligibility, affiliation
+- #offer: credit tiers for new advertisers
+- #how-it-works: three steps — create the account on TikTok, add business details, explore campaign setup
+- #tools / #benefits: what the tools in Ads Manager are for
+- #faq: registration location, required information, cost, credits, affiliation
 
-## FAQ (short answers)
+## FAQ (English, short answers)
 
-- Where do I register? On TikTok's website — the buttons on the page continue to TikTok's registration flow.
-- What information is needed? TikTok guides the advertiser through it; requirements vary by country and business type.
-- How much do campaigns cost? Cost depends on the settings chosen and the options available to the account; check current budget and billing details in TikTok Ads Manager.
-- Is there a minimum budget? TikTok sets minimum daily budgets by objective, country and currency — the figure is shown in Ads Manager.
-- What creative is used? Vertical full-screen short video that feels native to the feed; Ads Manager lists supported formats and specs.
-- How are results measured? Ads Manager reports delivery and engagement; conversions need a tracking setup such as the TikTok Pixel or an app SDK.
-- Are credits guaranteed? No. TikTok's offer shown during registration and its terms control.
-- Is this TikTok's site? No — independent informational page.
+- Where do I register for a TikTok Ads account? Use the button on this page to continue to TikTok’s registration flow. Account registration takes place on TikTok’s website.
+- What information will I need? TikTok will guide you through the information needed for your account. Requirements may vary depending on your country and business type.
+- How much does it cost to run ads? Campaign costs depend on the settings you choose and the options available to your account. Review current budget and billing details in TikTok Ads Manager before launching a campaign.
+- Are the new advertiser ad credits guaranteed? No. The spend tiers shown here are a guide to the incentive details supplied for this page. TikTok’s offer shown during registration and its terms control. Eligibility, qualifying spend windows, availability, and reward timing may vary by advertiser and region.
+- Is this an official TikTok website? No. This is an independent informational page. TikTok Ads accounts, approval, features, and availability are managed by TikTok and may vary by country.
 
 ## Machine-readable files
 
