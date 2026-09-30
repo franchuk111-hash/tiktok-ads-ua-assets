@@ -238,3 +238,30 @@ h1 .headline-accent { color: var(--cyan); text-shadow: 0 0 35px rgba(32,217,231,
   .ru-page *, .ru-page *::before, .ru-page *::after { animation: none !important; scroll-behavior: auto !important; transition-duration: .01ms !important; }
   .ru-page.motion-ready .reveal-on-scroll { opacity: 1; transform: none; }
 }
+
+/* === Переключатель языка: одинаковый и аккуратный вид во всех браузерах (30.09.2026) === */
+.language-menu summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  list-style: none;
+  padding: 9px 12px;
+  line-height: 1;
+  border: 1px solid rgba(255, 255, 255, .16);
+  border-radius: 999px;
+  transition: border-color .2s ease, background-color .2s ease;
+}
+.language-menu summary::-webkit-details-marker { display: none; }
+.language-menu summary::marker { content: ""; }
+.language-menu summary:hover { border-color: rgba(32, 217, 231, .5); }
+.language-menu[open] > summary { border-color: rgba(32, 217, 231, .65); background: rgba(32, 217, 231, .06); }
+.language-menu summary::before {
+  content: "";
+  width: 13px;
+  height: 13px;
+  flex: none;
+  opacity: .85;
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%238b93a1' stroke-width='1.9' stroke-linecap='round'><circle cx='12' cy='12' r='9'/><path d='M3.2 12h17.6'/><path d='M12 3.1c2.4 2.7 2.4 15.1 0 17.8'/><path d='M12 3.1c-2.4 2.7-2.4 15.1 0 17.8'/></svg>") center / contain no-repeat;
+}
+.language-menu summary span { margin-left: 0; }
+.language-options { margin-top: 8px; border-radius: 10px; overflow: hidden; }
